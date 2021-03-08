@@ -3,4 +3,5 @@
 Olá! Seja bem vindo ao meu livro de receitas :clap:
 
 - Strognoff de frango
+- Pavê
 
